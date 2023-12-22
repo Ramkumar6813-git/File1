@@ -1,1 +1,1 @@
-# This Repo is for just Learning Git and Git hub
+# This Repo is just for Learning Git and Github
